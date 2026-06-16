@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Baust blog'
+theme = 'hugo-bearcub'
+
+[author]
+  name = 'Andrew'
+  email = 'andrew@baust.me'
+
+[params]
+  description = "A minimalist website built with Hugo."
+  
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 2
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
