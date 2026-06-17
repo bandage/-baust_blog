@@ -1,16 +1,22 @@
 +++
 date = '2026-06-16T12:45:32+01:00'
 draft = false
-title = 'About'
-image = "/images/hero.png"
+
 +++
 
-Hi, I'm Andrew, and this is a little space that I maintain online.
+# WHAT I'M DOING NOW
 
-I'm interested in lots of things, and they generally have a whiff of nerd around them.
+(This is [a now page](www.nownownow.com), and if you have your own site, you should make one too.)
 
-At home I'm a father, husband, climber, project starter, sock dropper, inconsistent runner, Beaver leader, Dungeon Master, Woodworker, Ratmog owner, wargamer, model maker, yoghurt spiller.
+I'm working as a BI team amanager, migrating data across systems, building dashboards using modern tools and reporting using BO.. Its good. I really like the IT Team.
+Driving into the Sough office three times a week is fine, amd I find myself more productive than being at home. 
 
-At work I'm a Business Intelligence Manager, which means I care about data, where it comes from and what we do with it. My team maintains a data warehouse, reporting solutions, dashboards, and thinks about how we get the most out of our company's information.
+In the 5th year of running the local Beaver Unit for 20 6-8 year olds. They're a bit chaotic, and i probably should think about 
 
-You can reach me at hello@baust.me
+I restarted DMing for the Merry Beheaders at the start of the year. I'd put this down a few years ago when home life was a bit much and it's been great to do again.
+
+Learning how to play Age of Sigmar. C2 has a subscription to Spearhead magazine, and it's helped me flex those modeling muscles that i've not used for years.
+
+[Re-learning markdown...](https://www.markdownguide.org)
+
+Not doing any exercise. I'm conscious that this needs to change. 
