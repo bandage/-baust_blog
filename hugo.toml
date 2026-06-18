@@ -1,6 +1,6 @@
 baseURL = 'https://baust.me/'
 languageCode = 'en-us'
-title = 'Baust blog'
+title = 'Andrew Craig'
 theme = 'hugo-bearcub'
 
 [author]
