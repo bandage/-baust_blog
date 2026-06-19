@@ -6,7 +6,7 @@ date = '2026-06-19'
 
 
 Here are some links that i use often. 
-They're onlyh really saved here so i have things to click on when i dont have my bookmarks handy!
+They're only really saved here so I have something to click on when I dont have my bookmarks handy!
 
 
 Personal pages
