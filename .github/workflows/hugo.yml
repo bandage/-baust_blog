@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - master 
+      - master
 
 permissions:
   contents: read
@@ -24,13 +24,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2 # Pin to latest micro-release supporting Node updates
         with:
           submodules: recursive
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5 # Upgraded from v4 to v5 for Node 24 compatibility
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v3.1.0 # Updated to stable patch release
         with:
           hugo-version: 'latest'
           extended: true
