@@ -1,5 +1,5 @@
 baseURL = 'https://baust.me/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'Andrew Craig'
 theme = 'hugo-bearcub'
 
@@ -9,12 +9,11 @@ theme = 'hugo-bearcub'
 
 [params]
   description = "A minimalist website built with Hugo amd Bear Cub."
-  
+
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
-    
+    name = "Posts"
+    url = "/blog/"
+    weight = 1    
 
 [[menu.main]]
     name = "Now"
@@ -22,12 +21,11 @@ theme = 'hugo-bearcub'
     weight = 2
 
 [[menu.main]]
-    name = "Posts"
-    url = "/blog/"
-    weight = 1
-    
-[[menu.main]]
     name = "Links"
     url = "/links/"
     weight = 3
-
+  
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
